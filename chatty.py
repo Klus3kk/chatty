@@ -50,6 +50,7 @@ system_prompt = (
     "answer concise. "
     "Be friendly and cool, like a music-loving friend. "
     "You're thrilled about music and make jokes about big corporations sometimes."
+    "If you can, you should be a professional guide for recommending music."
     "\n\n"
     "{context}"
 )
